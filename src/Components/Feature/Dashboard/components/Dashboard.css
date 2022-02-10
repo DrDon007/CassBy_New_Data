@@ -1,0 +1,76 @@
+.ant-layout-sider, .ant-menu, .ant-layout-header {
+    background-color: #E5E5E5 !important; 
+}
+
+/** 
+    background: #0F4D80;
+ **/
+
+.ant-layout-sider-trigger {
+    background: #0F4D80;
+}
+
+.ant-menu-item:hover{
+    background-color: #fff;
+    color: #0F4D80;
+}
+
+.ant-menu-item{
+    border-right: none !important;
+}
+
+.ant-menu-item-selected{
+    background-color: #fff !important;
+    color: #0F4D80 !important;
+    border-radius: 10px;
+    margin: 0px auto !important;
+}
+
+.ant-layout-content{
+    background: #fff;
+    border-radius: 10px;
+    margin: 0 !important;
+}
+
+.ant-card {
+    background-color: #F8F9FA !important;   
+}
+
+.logo {
+    height: 70px;
+    padding-top: 20px;
+}
+
+.ant-breadcrumb{
+    text-align: left;
+    float: left;
+    width: 80%;
+}
+
+.ant-avatar{
+    float: right;
+    margin-top: 10px !important;
+}
+
+.ant-menu{
+    width: 90% !important;
+    margin: 0 auto !important;
+    border: 0 !important;
+}
+
+.sidebar-box-help{
+    background-color: #0F4D80;
+    width: 90%;
+    text-align: left;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.card-4 .ant-card-body{
+    min-height: 225px;
+}
+
+.card-3 .ant-card-body{
+    min-height: 225px;
+}
